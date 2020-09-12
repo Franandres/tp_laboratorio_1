@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599901351 source:c:\users\elizabeth\desktop\programacion\tp_laboratorio_1\calculadora\operaciones.c
+	"Operaciones.h"
+
+1599901352 c:\users\elizabeth\desktop\programacion\tp_laboratorio_1\calculadora\operaciones.h
+
+1599901352 source:c:\users\elizabeth\desktop\programacion\tp_laboratorio_1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Operaciones.h"
+
